@@ -6,7 +6,7 @@ Tired of ads on Spotify and too broke to buy Premium? Then this script is for yo
 - Knowledge of how to run a batch file (duh)
 
 ## Usage
-1. Download as zip
+1. Download as zip (or copy and paste into new batch file)
 2. Run as administrator
 3. You're all set!
 
